@@ -1,3 +1,4 @@
+// Arrat of pointers example.
 #include <stdio.h>
 int main()
 {
